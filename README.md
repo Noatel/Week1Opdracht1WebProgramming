@@ -7,6 +7,9 @@ Opgave a)
 Maak een controller met een action methode. In deze action methode definieer je hard-coded een List met voornamen. De action methode heeft een parameter: voornaam
 
 Uitvoer: als 'Jan' als voornaam is meegegeven (en 3 keer voorkomt in je lijst), wordt 'De naam Jan komt 3x voor in de lijst.' getoond in de browser.
+
+
+
 Opgave b)
 
 Maak een tweede action methode in dezelfde controller. Definieer in de methode een List met Personen. Een persoon heeft een naam en e-mail adres.
